@@ -169,7 +169,7 @@ function staircase(n) {
 // console.log(contador2);
 
 
-
+/**/
 
 // let countObj = {};
 // let arr = 
